@@ -14,6 +14,6 @@ bounded = {
     code     = function (args) end,
 }
 
-function parse(game_string)
+function parse(filename)
 
 end
