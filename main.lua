@@ -1,5 +1,3 @@
-
-
 actions = {
 	look = function (room)
 		print("You are in a room.")
