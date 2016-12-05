@@ -2,8 +2,11 @@
 
 Welcome to an example game!
 
-->go_here
+->here
+
 This is always skipped.
 
-@go_here
+@here
+
 This is read.
+

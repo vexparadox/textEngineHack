@@ -10,6 +10,13 @@ Welcome to an example game! When you write simple text like this it will be show
 $variable = true
 $ another_variable=hello
 
+$name = <<
+Hello $name!
+
+
+# Possible version of an if statement
+? ($var == "some text here") ->location | ->somewhere
+
 
 # You can use randomisation in your stories!
 % one, of, these, words, will, be, picked
